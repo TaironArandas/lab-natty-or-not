@@ -20,22 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Trailer campanha de Maldição de Strahd
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+?Um breve teaser apresentando os persangens e ambiente de campanha.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+LuzIA do whatsapp para gerar a trilha letra e o SunoIA para gerar a música em si e o restante da composição foi edição de vídeo manual.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criar a letra envolvendo o background dos personagens e ambiente da aventura, traduzir para inglês a letra, gerar a música, editar o vídeo com imagens variadas juntos com a música e realizar o render final do vídeo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://youtu.be/e-e5A4Tc9uY
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
